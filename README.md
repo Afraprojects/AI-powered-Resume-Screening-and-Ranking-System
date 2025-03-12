@@ -27,3 +27,4 @@ Cloud: AWS / Google Cloud / Azure
 4️⃣ Rank candidates using ML models 🚀
 5️⃣ Export ranked list for recruiters 🎯
 
+output: ![Image](https://github.com/user-attachments/assets/613f4123-065f-46d3-929b-6194a0270f4b)
